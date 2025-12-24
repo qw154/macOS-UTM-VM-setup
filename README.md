@@ -6,11 +6,11 @@ This is in the emulate mode with JIT, not the virtualize.
 The link is here : https://drive.google.com/file/d/1kC1b8V_IzyUHJR3ccZZG9Y_Lve3EHzjW/view?usp=sharing
 
 # Prepare
-1. Download the macOS iso. 
+1. Download the macOS iso and OpenCore .iso.
 2. The recommended ram is 8 GB ( 4GB for 8 GB ram).
 
 # Guide
-1. Add your OS image file and a 100 GB raw disk.
+1. Add your OS image file, OpenCore and a 100 GB raw disk.
 2. Start your VM.
 3. When you are in the recovery, select Disk Utility.
 4. Find the raw disk and click erase.

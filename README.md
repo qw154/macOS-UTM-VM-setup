@@ -3,7 +3,7 @@ I successfully ran macOS Big Sur by this set up. I also tried to run Sequoia. It
 
 This is in the emulate mode with JIT, not the virtualize.
 
-The link is here : https://drive.google.com/file/d/1kC1b8V_IzyUHJR3ccZZG9Y_Lve3EHzjW/view?usp=drivesdk
+The link is here : https://drive.google.com/file/d/1kC1b8V_IzyUHJR3ccZZG9Y_Lve3EHzjW/view?usp=sharing
 
 # Prepare
 1. Download the macOS iso. 
